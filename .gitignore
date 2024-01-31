@@ -7,3 +7,5 @@
 cscope*
 tags
 TAGS
+*.tags
+**/.cache/*
